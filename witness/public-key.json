@@ -1,0 +1,6 @@
+{
+  "kid": "gt-dev-software-1",
+  "alg": "ML-DSA-65",
+  "sign_backend": "SOFTWARE",
+  "fips_140_module": false
+}
